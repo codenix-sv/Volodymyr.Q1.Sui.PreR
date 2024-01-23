@@ -11,6 +11,11 @@
     - [One Time Witness]
     - [Object Display]
     - [Capability]
+- ### [Enrollment dApp exercise]
+    - [Airdrop]
+    - [Enroll]
+    - [Keygen]
+    - [Transfer]
 
 [Prerequisite exercise]: ./preresq
 [Entry Functions]: ./prereqs/sources/entry_function.move
@@ -21,6 +26,13 @@
 [One Time Witness]: ./prereqs/sources/one_time_witness.move
 [Object Display]: ./prereqs/sources/object_display.move
 [Capability]: ./prereqs/sources/capability.move
+
+[Enrollment dApp exercise]: ./enrollment
+[Airdrop]: ./enrollment/airdrop.ts
+[Enroll]: ./enrollment/enroll.ts
+[Keygen]: ./enrollment/keygen.ts
+[Transfer]: ./enrollment/transfer.ts
+
 
 ## Building your package
 
