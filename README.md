@@ -17,7 +17,7 @@
     - [Keygen]
     - [Transfer]
 
-[Prerequisite exercise]: ./preresq
+[Prerequisite exercise]: ./prereqs
 [Entry Functions]: ./prereqs/sources/entry_function.move
 [Shared Object]: ./prereqs/sources/shared_object.move
 [Transfer]: ./prereqs/sources/transfer.move

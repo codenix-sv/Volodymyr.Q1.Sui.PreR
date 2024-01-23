@@ -1,6 +1,6 @@
 # Sui Move Q1 Cohort prerequisite exercise
 
-Sui Move Q1 Cohort Prerequistes: 
+Sui Move Q1 Cohort Prerequisites: 
 
 - Read these documents
   - https://docs.sui.io/concepts/sui-move-concepts
